@@ -20,7 +20,7 @@ pulumi config set checkly:accountId xxxx
 pulumi up
 ```
 
-## Deploy all resources and project
+## Destroy all resources and project
 
 ``` bash
 pulumi destroy
